@@ -9,3 +9,7 @@ SpanNetty
 Vortice.Windows
 ## Vulkan
 Lettuce
+## Audio
+SharpAudio
+## 2D Physics
+Aether.Physics2D
